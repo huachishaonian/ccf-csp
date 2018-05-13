@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+    "includePath": [
+        "E:/编译器/MinGW/include/*",
+        "E:/编译器/MinGW/lib/gcc/x86_64-w64-mingw32/7.2.0/include/*",
+        "E:/编译器/MinGW/x86_64-w64-mingw32/include/*",
+        "E:/编译器/MinGW/x86_64-w64-mingw32/bin/*",
+        "E:/编译器/MinGW/x86_64-w64-mingw32/lib/*"
+        
+    ],
+    "browse": {
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    }
+
+        }
+    ],
+    "version": 4
+}
